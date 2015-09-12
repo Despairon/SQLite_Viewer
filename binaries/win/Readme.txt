@@ -1,0 +1,1 @@
+For running this application for win platform make sure that Visual C++ Redist. 2013 is installed on your computer.
